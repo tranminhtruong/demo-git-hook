@@ -41,3 +41,4 @@ runs:
     - ${{ inputs.port }}
     - ${{ inputs.local_dir }}
     - ${{ inputs.remote_dir }}
+    - ${{ inputs.ARGS }}
